@@ -117,10 +117,10 @@ OpenAPI 3.1.0 spec: [peasycss.com/api/openapi.json](https://peasycss.com/api/ope
 
 ## Learn More
 
-- **Tools**: [CSS Minify](https://peasycss.com/tools/css-minify/) · [CSS Format](https://peasycss.com/tools/css-format/) · [CSS Gradient](https://peasycss.com/tools/css-gradient/) · [All Tools](https://peasycss.com/)
-- **Guides**: [Flexbox Guide](https://peasycss.com/guides/flexbox/) · [Grid Guide](https://peasycss.com/guides/grid/) · [All Guides](https://peasycss.com/guides/)
-- **Glossary**: [Flexbox](https://peasycss.com/glossary/flexbox/) · [Grid](https://peasycss.com/glossary/grid/) · [All Terms](https://peasycss.com/glossary/)
-- **Formats**: [CSS](https://peasycss.com/formats/css/) · [SCSS](https://peasycss.com/formats/scss/) · [All Formats](https://peasycss.com/formats/)
+- **Tools**: [CSS Minify](https://peasycss.com/css/css-minify/) · [CSS Beautify](https://peasycss.com/css/css-beautify/) · [CSS Gradient Generator](https://peasycss.com/css/css-gradient/) · [All Tools](https://peasycss.com/)
+- **Guides**: [CSS Units Explained](https://peasycss.com/guides/css-units-explained/) · [CSS Grid vs Flexbox](https://peasycss.com/guides/css-grid-vs-flexbox-when-to-use-each/) · [All Guides](https://peasycss.com/guides/)
+- **Glossary**: [BEM](https://peasycss.com/glossary/bem/) · [Box Model](https://peasycss.com/glossary/box-model/) · [Cascade](https://peasycss.com/glossary/cascade/) · [All Terms](https://peasycss.com/glossary/)
+- **Formats**: [CSS](https://peasycss.com/formats/css/) · [SVG](https://peasycss.com/formats/svg/) · [All Formats](https://peasycss.com/formats/)
 - **API**: [REST API Docs](https://peasycss.com/developers/) · [OpenAPI Spec](https://peasycss.com/api/openapi.json)
 
 ## Also Available
