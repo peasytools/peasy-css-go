@@ -3,6 +3,7 @@
 [![Go Reference](https://pkg.go.dev/badge/github.com/peasytools/peasy-css-go.svg)](https://pkg.go.dev/github.com/peasytools/peasy-css-go)
 [![Go Report Card](https://goreportcard.com/badge/github.com/peasytools/peasy-css-go)](https://goreportcard.com/report/github.com/peasytools/peasy-css-go)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://agentgif.com/badge/github/peasytools/peasy-css-go/stars.svg)](https://github.com/peasytools/peasy-css-go)
 
 Go client for the [PeasyCSS](https://peasycss.com) API -- minify, beautify, and convert CSS units with tools for gradient generation, shadow creation, flexbox layouts, and grid systems. Zero dependencies beyond the Go standard library.
 
