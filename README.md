@@ -12,7 +12,7 @@ Built from [PeasyCSS](https://peasycss.com), a comprehensive CSS toolkit offerin
 > **Try the interactive tools at [peasycss.com](https://peasycss.com)** -- [CSS Minify](https://peasycss.com/css/css-minify/), [CSS Beautify](https://peasycss.com/css/css-beautify/), [CSS Unit Converter](https://peasycss.com/css/css-unit-converter/), and more.
 
 <p align="center">
-  <img src="demo.gif" alt="peasy-css-go demo -- CSS minify, beautify, and unit conversion tools in Go terminal" width="800">
+  <a href="https://agentgif.com/JWKrKzT8"><img src="https://media.agentgif.com/JWKrKzT8.gif" alt="peasy-css-go demo -- CSS minify, beautify, and unit conversion tools in Go terminal" width="800"></a>
 </p>
 
 ## Table of Contents
