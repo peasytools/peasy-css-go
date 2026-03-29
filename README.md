@@ -266,6 +266,17 @@ Part of the [Peasy Tools](https://peasytools.com) open-source developer ecosyste
 | peasy-document | [PyPI](https://pypi.org/project/peasy-document/) | [npm](https://www.npmjs.com/package/peasy-document) | [Go](https://pkg.go.dev/github.com/peasytools/peasy-document-go) | Markdown, HTML, CSV, JSON conversion -- [peasyformats.com](https://peasyformats.com) |
 | peasytext | [PyPI](https://pypi.org/project/peasytext/) | [npm](https://www.npmjs.com/package/peasytext) | [Go](https://pkg.go.dev/github.com/peasytools/peasytext-go) | Text case conversion, slugify, word count -- [peasytext.com](https://peasytext.com) |
 
+## Embed Widget
+
+Embed [PeasyCss](https://peasycss.com) widgets on any website with [peasy-css-embed](https://widget.peasycss.com):
+
+```html
+<script src="https://cdn.jsdelivr.net/npm/peasy-css-embed@1/dist/embed.min.js"></script>
+<div data-peasycss="entity" data-slug="example"></div>
+```
+
+Zero dependencies · Shadow DOM · 4 themes (light/dark/sepia/auto) · [Widget docs](https://widget.peasycss.com)
+
 ## License
 
 MIT
